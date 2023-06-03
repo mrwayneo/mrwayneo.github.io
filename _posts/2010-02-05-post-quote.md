@@ -1,5 +1,6 @@
 ---
 title: "Post: Quote"
+layout: single
 categories:
   - Blog
 tags:
