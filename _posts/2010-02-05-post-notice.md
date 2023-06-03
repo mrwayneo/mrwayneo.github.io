@@ -1,5 +1,6 @@
 ---
 title: "Post: Notice"
+layout: single
 categories:
   - Blog
 tags:
