@@ -12,3 +12,5 @@ Gemfile.lock
 docker-compose.yaml
 Dockerfile
 requirements.txt
+.dump
+docker-share
