@@ -14,3 +14,7 @@ Dockerfile
 requirements.txt
 .dump
 docker-share
+# Ignore app related files
+.app
+.tmp
+.logs
