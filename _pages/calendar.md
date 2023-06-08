@@ -1,12 +1,12 @@
 ---
-permalink: /sports-bar/
-title: "Sport's Bar"
+permalink: /calendar/
+title: "Upcoming..."
 header:
   overlay_image: /assets/images/splash/splash-man-cave-golf-simulator.jpg
   caption: "Photo credit: [**MALMQUIST CONSTRUCTION**](https://malmquist.com)"
   actions:
     - label: "Calendar"
-      url: /sports-bar/
+      url: /calendar/
 categories:
   - Sport
 tags:

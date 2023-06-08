@@ -1,14 +1,17 @@
 ---
 layout: splash
-title: ""
+title: "Next..."
+tagline: "Champions League Final: Manchester City v Inter Milan, 
+Sun 11 June 2023 @ 5am AEST."
 permalink: /
 hidden: True
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
+  caption: "Photo credit: [**MrWayneo**](https://mrwayneo.github.io)"
   actions:
-    - label: "Sports Bar"
-      url: "/sports-bar/"
+    - label: "Preview"
+      url: "https://www.uefa.com/uefachampionsleague/news/0271-142ef4c4d9e4-ba6d9cd2db69-1000--2023-uefa-champions-league-final-manchester-city-vs-inter-i/"
 excerpt: >
   COMING SOON!.<br />
 feature_row:
@@ -19,7 +22,7 @@ feature_row:
     first time in 75 years, the U.S. Open will be contested in Los Angeles."
     url: "https://www.usopen.com"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Preview"
   - image_path: /assets/images/feature-two-middle.png
     alt: "T.Tszyu v Ocampo (Super Welterweight Title) "
     title: "T.Tszyu v Ocampo (Super Welterweight Title) "
@@ -27,7 +30,7 @@ feature_row:
     T.Tszyu v Ocampo battle it out for the Super Welterweight Title."
     url: "https://nolimitboxing.com.au/events/tim-tszyu-vs-carlos-ocampo/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Preview"
   - image_path: /assets/images/feature-three-right.png
     alt: "State of Origin 2023 - Game 2"
     title: "State of Origin 2023 - Game 2"
@@ -35,7 +38,7 @@ feature_row:
     to take the series to a decider after the defeat in game 1."
     url: "https://www.nrl.com/draw/state-of-origin/2023/game-2/maroons-v-blues/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Preview"      
 ---
 
 {% include feature_row %}
