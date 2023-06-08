@@ -55,9 +55,12 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+logo: "/assets/images/mrwayneo.png"
+
 author:
   name   : "Mr Wayneo"
   avatar : "/assets/images/bio-photo.jpg"
+  logo: "/assets/images/mrwayneo.png"
   bio    : "Mr Wayneo is dedicated to finding the best locations and methods to watch the biggest sports in the world."
   links:
     - label: "Website"

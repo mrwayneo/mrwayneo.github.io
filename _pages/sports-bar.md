@@ -1,6 +1,17 @@
 ---
 permalink: /sports-bar/
-title: "Sports Bar"
+title: "Sport's Bar"
+header:
+  overlay_image: /assets/images/splash/splash-man-cave-golf-simulator.jpg
+  caption: "Photo credit: [**MALMQUIST CONSTRUCTION**](https://malmquist.com)"
+  actions:
+    - label: "Calendar"
+      url: /sports-bar/
+categories:
+  - Sport
+tags:
+  - sport
+last_modified_at: 2023-06-08T16:00:52-04:00
 ---
 
 The biggest event over the next 12 months... 
@@ -32,7 +43,8 @@ State of Origin 2, State of Origin 3, NRL Grand Final, Champions League Final, E
 **August**      
 {: .notice}
 
-**September**     
+**September**    
+**Fri 1 – Sat 2** :horse_racing: Birdsville Races  
 **Fri 8 @ 10:20AM** :football: NFL Round 1: Chiefs v Lions      
 {: .notice}
 

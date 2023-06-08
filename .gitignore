@@ -18,3 +18,4 @@ docker-share
 .app
 .tmp
 .logs
+.bash_history
