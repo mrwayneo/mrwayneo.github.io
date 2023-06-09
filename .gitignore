@@ -19,3 +19,5 @@ docker-share
 .tmp
 .logs
 .bash_history
+# Ignore test posts
+_posts/2023-06-09-friday-racing.md
