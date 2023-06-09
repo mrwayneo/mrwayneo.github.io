@@ -84,22 +84,6 @@ Change padding of the masthead inner wrap and avatar size to give the desired av
 }
 ```
 
-### Remove from splash
-
-```
----
-layout: splash
-permalink: /
-hidden: true
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "Sports Bar"
-      url: "/sports-bar/"
-excerpt: >
-  COMING SOON!.<br />
-```
 
 ---
 
