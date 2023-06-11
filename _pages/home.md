@@ -1,44 +1,24 @@
 ---
-layout: splash
+layout: collection
+collection: events
+entries_layout: grid
+classes: wide2
+sort_by: number
+author_profile: false
 title: "Next..."
-tagline: "Champions League Final: Manchester City v Inter Milan, 
-Sun 11 June 2023 @ 5am AEST."
+tagline: "US Open, 
+Fri 16 June 2023 @ 5am AEST."
 permalink: /
 hidden: True
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  caption: "Photo credit: [**MrWayneo**](https://mrwayneo.github.io)"
+  overlay_image: /assets/images/splash/splash-man-cave-golf-simulator.jpg
+  caption: "Photo credit: [**MALMQUIST CONSTRUCTION**](https://malmquist.com)"
   actions:
     - label: "Preview"
-      url: "https://www.uefa.com/uefachampionsleague/news/0271-142ef4c4d9e4-ba6d9cd2db69-1000--2023-uefa-champions-league-final-manchester-city-vs-inter-i/"
+      url: "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwip7rjcobr_AhUHjFYBHXWwAYIQFnoECBIQAQ&url=https%3A%2F%2Fwww.usopen.com%2F&usg=AOvVaw1qtzAAJn_MO1485bcCpPSK"
 excerpt: >
   COMING SOON!.<br />
-feature_row:
-  - image_path: /assets/images/feature-one-left.png
-    alt: "US Open 2023"
-    title: "US Open 2023"
-    excerpt: "Fri 16 June 2023 @ 5am AEST, The Los Angeles Country Club. For the 
-    first time in 75 years, the U.S. Open will be contested in Los Angeles."
-    url: "https://www.usopen.com"
-    btn_class: "btn--primary"
-    btn_label: "Preview"
-  - image_path: /assets/images/feature-two-middle.png
-    alt: "T.Tszyu v Ocampo (Super Welterweight Title) "
-    title: "T.Tszyu v Ocampo (Super Welterweight Title) "
-    excerpt: "Sun 18 June 2023 @ 12pm AEST, Gold Coast Convention & Exhibition Centre.
-    T.Tszyu v Ocampo battle it out for the Super Welterweight Title."
-    url: "https://nolimitboxing.com.au/events/tim-tszyu-vs-carlos-ocampo/"
-    btn_class: "btn--primary"
-    btn_label: "Preview"
-  - image_path: /assets/images/feature-three-right.png
-    alt: "State of Origin 2023 - Game 2"
-    title: "State of Origin 2023 - Game 2"
-    excerpt: "Wed 21 June 2023 @ 8pm AEST, Suncorp Stadium, Brisbane. NSW seeking a miracle victory, 
-    to take the series to a decider after the defeat in game 1."
-    url: "https://www.nrl.com/draw/state-of-origin/2023/game-2/maroons-v-blues/"
-    btn_class: "btn--primary"
-    btn_label: "Preview"      
+ 
 ---
 
-{% include feature_row %}
