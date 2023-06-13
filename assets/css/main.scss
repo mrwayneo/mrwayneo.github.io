@@ -8,37 +8,50 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.masthead {
+$max-width:1440px;
+$right-sidebar-width-narrow: 100px !default;
+$right-sidebar-width: 100px !default;
+$right-sidebar-width-wide: 100px !default;
 
-  &__inner-wrap {
-    padding: 0.2em 1em 0 1em;
-  }
-}
 
-.site-logo img {
-  max-height: 2.5rem;
-}
+.wide3 {
 
-.wide2 {
-  .page {
+  .page { 
     float: left;
     width: 100%;
     @include breakpoint($large) {
       padding-left: 0;
     }
+  }
+
+
+  .archive {
+    float: left;
+    width: 100%;
+    @include breakpoint($small) {
+      padding-right: 0;
+    }
+
+    @include breakpoint($medium) {
+      padding-right: 0;
+    }
+
+    @include breakpoint($large) {
+      padding-right: 0;
+    }
 
     @include breakpoint($x-large) {
-      padding-left: 0;
+      padding-right: 0;
     }
   }
 
-  .page__related {
-    @include breakpoint($large) {
-      padding-left: 0;
+  .archive__item-teaser {
+    @include breakpoint($small) {
+      max-height: 200px;
     }
 
-    @include breakpoint($x-large) {
-      padding-left: 0;
+    @include breakpoint($medium) {
+      max-height: 200px;
     }
   }
 }

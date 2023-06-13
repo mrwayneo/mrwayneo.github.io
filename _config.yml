@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Mr Wayneo is dedicated to finding the best locations and methods to watch the biggest sports in the world. 
 twitter_username: mr_wayneo
 github_username: mrwayneo
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: default
 search: true
 
 # Build settings

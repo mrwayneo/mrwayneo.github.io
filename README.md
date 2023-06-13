@@ -84,6 +84,35 @@ Change padding of the masthead inner wrap and avatar size to give the desired av
 }
 ```
 
+### Display collection on home full width:
+
+Added CSS/SCSS
+
+```
+.wide2 {
+  .page {
+    float: left;
+    width: 100%;
+    @include breakpoint($large) {
+      padding-left: 0;
+    }
+
+    @include breakpoint($x-large) {
+      padding-left: 0;
+    }
+  }
+
+  .page__related {
+    @include breakpoint($large) {
+      padding-left: 0;
+    }
+
+    @include breakpoint($x-large) {
+      padding-left: 0;
+    }
+  }
+}
+```
 
 ---
 

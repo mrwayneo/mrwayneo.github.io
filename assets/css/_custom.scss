@@ -1,0 +1,91 @@
+/*
+   MAsthead logo and burger menu
+   ========================================================================== */
+.masthead {
+
+  &__inner-wrap {
+    padding: 0.2em 1em 0 1em;
+  }
+}
+
+.site-logo img {
+  max-height: 2.5rem;
+}
+
+/*
+   Wide Pages
+   ========================================================================== */
+.wide2 {
+  .page { 
+    float: left;
+    width: 100%;
+    @include breakpoint($large) {
+      padding-left: 0;
+    }
+
+  .archive {
+    @include breakpoint($small) {
+      padding-right: 0;
+    }
+    @include breakpoint($large) {
+      padding-right: 0;
+    }
+
+    @include breakpoint($x-large) {
+      padding-right: 0;
+    }
+  }
+
+    @include breakpoint($x-large) {
+      padding-left: 0;
+    }
+  }
+
+  .page__related {
+    @include breakpoint($large) {
+      padding-left: 0;
+    }
+
+    @include breakpoint($x-large) {
+      padding-left: 0;
+    }
+  }
+
+}
+
+/*
+   Wide Pages
+   ========================================================================== */
+
+.wide3 {
+
+  .page { 
+    float: left;
+    width: 100%;
+    @include breakpoint($large) {
+      padding-left: 0;
+    }
+  }
+
+
+  .archive {
+    float: left;
+    width: 100%;
+    @include breakpoint($small) {
+      padding-right: 0;
+    }
+
+    @include breakpoint($medium) {
+      padding-right: 0;
+    }
+
+    @include breakpoint($large) {
+      padding-right: 0;
+    }
+
+    @include breakpoint($x-large) {
+      padding-right: 0;
+    }
+  }
+}
+

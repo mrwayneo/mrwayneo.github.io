@@ -2,7 +2,7 @@
 layout: collection
 collection: events
 entries_layout: grid
-classes: wide2
+classes: wide3
 sort_by: number
 author_profile: false
 title: "Next..."
@@ -16,7 +16,7 @@ header:
   caption: "Photo credit: [**MALMQUIST CONSTRUCTION**](https://malmquist.com)"
   actions:
     - label: "Preview"
-      url: "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwip7rjcobr_AhUHjFYBHXWwAYIQFnoECBIQAQ&url=https%3A%2F%2Fwww.usopen.com%2F&usg=AOvVaw1qtzAAJn_MO1485bcCpPSK"
+      url: "https://www.usopen.com"
 excerpt: >
   COMING SOON!.<br />
  
