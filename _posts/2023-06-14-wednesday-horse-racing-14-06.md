@@ -13,7 +13,6 @@ tags: ['racing', 'horse', 'wednesday']
 | 18:20  | Sonoda     |     10 |        9 | Methuselah   | nan   |       0 |                    | 2nd      |
 
 
-	*As a guide, if my bankroll is $100 I generally bet $2, or 2% of my bankroll
-	, 1% on a roughie :four_leaf_clover: and 3% on hot tips :fire:.*
-	{: .notice}  
-	
+*As a guide, if my bankroll is $100 I generally bet $2, or 2% of my bankroll
+, 1% on a roughie :four_leaf_clover: and 3% on hot tips :fire:.*
+{: .notice}  
