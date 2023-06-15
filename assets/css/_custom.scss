@@ -12,80 +12,61 @@
   max-height: 2.5rem;
 }
 
+
 /*
-   Wide Pages
+   Flashing red dot
    ========================================================================== */
-.wide2 {
-  .page { 
-    float: left;
-    width: 100%;
-    @include breakpoint($large) {
-      padding-left: 0;
-    }
-
-  .archive {
-    @include breakpoint($small) {
-      padding-right: 0;
-    }
-    @include breakpoint($large) {
-      padding-right: 0;
-    }
-
-    @include breakpoint($x-large) {
-      padding-right: 0;
-    }
-  }
-
-    @include breakpoint($x-large) {
-      padding-left: 0;
-    }
-  }
-
-  .page__related {
-    @include breakpoint($large) {
-      padding-left: 0;
-    }
-
-    @include breakpoint($x-large) {
-      padding-left: 0;
-    }
-  }
-
+.blinking {
+  -webkit-animation: 1s blink ease infinite;
+  -moz-animation: 1s blink ease infinite;
+  -ms-animation: 1s blink ease infinite;
+  -o-animation: 1s blink ease infinite;
+  animation: 1s blink ease infinite;
+  
 }
 
-/*
-   Wide Pages
-   ========================================================================== */
-
-.wide3 {
-
-  .page { 
-    float: left;
-    width: 100%;
-    @include breakpoint($large) {
-      padding-left: 0;
-    }
+@keyframes "blink" {
+  from, to {
+    opacity: 0;
   }
+  50% {
+    opacity: 1;
+  }
+}
 
+@-moz-keyframes blink {
+  from, to {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
 
-  .archive {
-    float: left;
-    width: 100%;
-    @include breakpoint($small) {
-      padding-right: 0;
-    }
+@-webkit-keyframes "blink" {
+  from, to {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
 
-    @include breakpoint($medium) {
-      padding-right: 0;
-    }
+@-ms-keyframes "blink" {
+  from, to {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
 
-    @include breakpoint($large) {
-      padding-right: 0;
-    }
-
-    @include breakpoint($x-large) {
-      padding-right: 0;
-    }
+@-o-keyframes "blink" {
+  from, to {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
   }
 }
 

@@ -5,7 +5,7 @@ entries_layout: grid
 classes: wide3
 sort_by: number
 author_profile: false
-title: "Next..."
+title: "LIVE NOW!"
 tagline: "US Open, 
 Fri 16 June 2023 @ 5am AEST."
 permalink: /
