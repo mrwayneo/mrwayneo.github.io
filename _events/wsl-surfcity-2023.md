@@ -1,12 +1,12 @@
 ---
-title: "Surf City El Salvador Pro 2023"
-excerpt: "June 9 - 18, 2023 on FOX SPORTS."
+title: "RESULT: Surf City El Salvador Pro 2023"
+excerpt: "WINNERS: Caroline Marks and Filipe Toledo"
 header:
   image: /assets/images/events/wsl-surfcity-2023.png
   teaser: /assets/images/events/wsl-surfcity-2023-th.png
   caption: "Photo credit: [**WSL**](https://www.worldsurfleague.com/events/2023/ct/72/surf-city-el-salvador-pro/results?roundId=22495)"
 date: 2023-06-09
-number: 120230609
+number: 220230609
 ---
 
 **Time:** Jun 9 - 18, 2023  
