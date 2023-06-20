@@ -5,9 +5,8 @@ entries_layout: grid
 classes: wide3
 sort_by: number
 author_profile: false
-title: "LIVE NOW!"
-tagline: "State of Origin Game 2, 
-Wed 21 June 2023 @ 8pm AEST, Suncorp Stadium."
+title: "State of Origin Game 2!"
+tagline: "Wed 21 June 2023 @ 8pm AEST, Suncorp Stadium."
 permalink: /
 hidden: True
 header:
