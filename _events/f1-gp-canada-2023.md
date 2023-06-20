@@ -1,18 +1,20 @@
 ---
-title: "F1 Grand Prix Canada"
-excerpt: "Mon 19 June 2023 @ 4AM AEST on FOX SPORTS."
+title: "RESULT: F1 Grand Prix Canada"
+excerpt: "WINNER: Red Bull / Verstappen"
 header:
   image: /assets/images/events/f1-gp-canada-2023.png
   teaser: /assets/images/events/f1-gp-canada-2023-th.png
   caption: "Photo credit: [**Red Bull**](https://www.redbull.com/us-en/tags/f1)"
 date: 2023-06-19
-number: 120230619
+number: 220230619
 ---
 
 **Time:** Mon 19 June 2023 @ 4AM AEST 
 **TV:** FOX SPORTS  
 **Website:** [F1 Grand Prix Canada](https://www.formula1.com/en/racing/2023/Canada.html)     
 **Betting:** TBC
+
+**WINNER:** Congratualtions Red Bull / Verstappen!
 
 ## Canadian Formula 1 Grand Prix Preview
 

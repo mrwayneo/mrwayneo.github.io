@@ -1,6 +1,6 @@
 ---
-title: "US Open 2023"
-excerpt: "WINNER: Winner Wyndham Clark!"
+title: "RESULT: US Open 2023"
+excerpt: "Winner Wyndham Clark!"
 header:
   image: /assets/images/events/us-open-2023.png
   teaser: /assets/images/events/us-open-2023-th.png
