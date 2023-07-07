@@ -1,12 +1,12 @@
 ---
-title: "NBA Draft 2023"
+title: "RESULT: NBA Draft 2023"
 excerpt: "Fri 23 Jun 2023 @ 10AM AEST."
 header:
   image: /assets/images/events/nba-draft-2023.png
   teaser: /assets/images/events/nba-draft-2023-th.png
   caption: "Photo credit: [**HOOPSHYPE**](https://hoopshype.com/lists/nba-mock-draft-scoot-henderson-brandon-miller-jarace-walker/)"
 date: 2023-06-23
-number: 120230623
+number: 220230623
 ---
 
 **Time:** Fri 23 Jun 2023 @ 10AM AEST    
@@ -21,6 +21,128 @@ Anthony Black 201.00.
 Ausar Thompson 201.00,
 Cam Whitmore 201.00,
 Cason Wallace 201.00   
+
+## Results
+
+**First Round**   
+
+1. Spurs draft Victor Wembanyama (Metropolitans 92)
+
+2. Hornets draft Brandon Miller (Alabama)
+
+3. Blazers draft Scoot Henderson (G League Ignite)
+
+4. Rockets draft Amen Thompson (Overtime Elite)
+
+5. Pistons draft Ausar Thompson (Overtime Elite)
+
+6. Magic draft Anthony Black (Arkansas)
+
+7. Pacers draft Bilal Coulibaly (Metropolitans 92) – Traded to Wizards
+
+8. Wizards draft Jarace Walker (Houston) – Traded to Pacers
+
+9. Jazz draft Taylor Hendricks (UCF)
+
+10. Mavericks draft Cason Wallace (Kentucky) – Traded to Thunder
+
+11. Magic draft Jett Howard (Michigan)
+
+12. Thunder draft Dereck Lively II (Duke) – Traded to Mavericks
+
+13. Raptors draft Gradey Dick (Kansas)
+
+14. Pelicans draft Jordan Hawkins (Connecticut)
+
+15. Hawks draft Kobe Bufkin (Michigan)
+
+16. Jazz draft Keyonte George (Baylor)
+
+17. Lakers draft Jalen Hood-Schifino (Indiana)
+
+18. Heat draft Jaime Jaquez Jr. (UCLA)
+
+19. Warriors draft Brandin Podziemski (Santa Clara)
+
+20. Rockets draft Cam Whitmore (Villanova)
+
+21. Nets draft Noah Clowney (Alabama)
+
+22. Nets draft Dariq Whitehead (Duke)
+
+23. Blazers draft Kris Murray (Iowa)
+
+24. Kings draft Olivier-Maxence Prosper (Marquette) – Traded to Mavericks
+
+25. Grizzlies draft Marcus Sasser (Houston) – Traded to Pistons
+
+26. Pacers draft Ben Sheppard (Belmont)
+
+27. Hornets draft Nick Smith Jr. (Arkansas)
+
+28. Jazz draft Brice Sensabaugh (Ohio State)
+
+29. Pacers draft Julian Strawther (Gonzaga) – Traded to Nuggets
+
+30. LA Clippers draft Kobe Brown (Missouri)
+
+**Second Round**   
+
+31. Pistons draft James Nnaji (FC Barcelona) – Traded to Hornets (via Celtics)
+
+32. Pacers draft Jalen Pickett (Penn State)– Traded to Nuggets
+
+33. Spurs draft Leonard Miller (G League Ignite) – Traded to Timberwolves
+
+34. Hornets draft Colby Jones (Xavier) – Traded to Kings (via Celtics)
+
+35. Celtics draft Julian Phillips (Tennessee) – Traded to Bulls (via Wizards)
+
+36. Magic draft Andre Jackson Jr. (Connecticut) – Traded to Bucks
+
+37. Thunder draft Hunter Tyson (Clemson) – Traded to Nuggets
+
+38. Kings draft Jordan Walsh (Arkansas) – Traded to Celtics
+
+39. Hornets draft Mouhamed Gueye (Washington State) – Traded to Hawks (via Celtics)
+
+40. Nuggets draft Maxwell Lewis (Pepperdine) – Traded to Lakers (via Pacers)
+
+41. Hornets draft Amari Bailey (UCLA)
+
+42. Wizards draft Tristan Vukcevic (Partizan Mozzart Bet Belgrade)
+
+43. Blazers draft Rayan Rupert (NZ Breakers)
+
+44. Spurs draft Sidy Cissoko (G League Ignite)
+
+45. Grizzlies draft Gregory Jackson II (South Carolina)
+
+46. Hawks draft Seth Lundy (Penn State)
+
+47. Lakers draft Mojave King (G League Ignite) – Traded to Pacers
+
+48. Clippers draft Jordan Miller (Miami)
+
+49. Cavaliers draft Emoni Bates (Eastern Michigan)
+
+50. Thunder draft Keyontae Johnson (Kansas State)
+
+51. Nets draft Jalen Wilson (Kansas)
+
+52. Suns draft Toumani Camara (Dayton)
+
+53. Timberwolves draft Jaylen Clark (UCLA)
+
+54. Kings draft Jalen Slawson (Furman)
+
+55. Pacers draft Isaiah Wong (Miami)
+
+56. Grizzlies draft Tarik Biberovic (Fenerbahce Beko)
+
+57. Wizards draft Trayce Jackson-Davis (Indiana) – Traded to Warriors
+
+58. Bucks draft Chris Livingston (Kentucky)
 
 ## NBA Draft Preview
 

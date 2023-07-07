@@ -1,12 +1,12 @@
 ---
-title: "Tattersall's Tiara"
-excerpt: "Sat 24 June 2023 @ ARVO AEST on 7 & SKY."
+title: "RESULT: Tattersall's Tiara"
+excerpt: "Winner: Palaisipan"
 header:
   image: /assets/images/events/tatts-tiara-eagle-farm-2023.png
   teaser: /assets/images/events/tatts-tiara-eagle-farm-2023-th.png
   caption: "Photo credit: [**Racing News NZ*](https://www.racingnews.co.nz/tofane-takes-out-tiara/)"
 date: 2023-06-24
-number: 120230624
+number: 220230624
 ---
 
 **Time:** Sat 24 June 2023 @ ARVO AEST
