@@ -5,8 +5,8 @@ entries_layout: grid
 classes: wide3
 sort_by: number
 author_profile: false
-title: "State of Origin Game 2!"
-tagline: "Wed 21 June 2023 @ 8pm AEST, Suncorp Stadium."
+title: "FIFA Womens World Cup!"
+tagline: "Thu 20 Jul - 20 Aug 2023, Australia/New Zealand"
 permalink: /
 hidden: True
 header:
@@ -15,7 +15,7 @@ header:
   caption: "Photo credit: [**MALMQUIST CONSTRUCTION**](https://malmquist.com)"
   actions:
     - label: "Preview"
-      url: "https://www.nrl.com/"
+      url: "https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/australia-new-zealand2023"
 excerpt: >
   COMING SOON!.<br />
  
